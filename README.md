@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**govinda744/govinda744** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📫 How to reach me: ... [Gmail](mailto:govinda.bhandari744@gmail.com)
 
-Here are some ideas to get you started:
+🌐 My Website: ... [https://govinda-bhandari.com.np/](https://govinda-bhandari.com.np/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Binaya Baral's GitHub stats](https://github-readme-stats.vercel.app/api?username=govinda744&show_icons=true&theme=gotham&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=govinda744&theme=gotham)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=govinda744&layout=compact&theme=gotham)
+
+![Contribution](https://activity-graph.herokuapp.com/graph?username=govinda744&theme=gotham)
